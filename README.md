@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ardakskc
 - 👀 I’m interested in Machine Learning Algorithms and Front-End, Back-End Technologies.
-- 🌱 I’m currently learning Image Processing in OpenCV
+- 🌱 I’m currently learning Amazon AWS and Bigquery.
 - 📫 How to reach me https://www.linkedin.com/in/ardakskc/.
 
 
